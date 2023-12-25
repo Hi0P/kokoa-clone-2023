@@ -22,6 +22,9 @@
   width: 15px;
   height: 15px;
 }
+.fa-solid.fa-gear.fa-lg {
+  position: relative;
+}
 
 .screen-header__dot {
   position: absolute;
@@ -31,8 +34,4 @@
   border-radius: 15px;
   left: 20px;
   top: -15px;
-}
-
-.fa-solid.fa-gear.fa-lg {
-  position: relative;
 }

@@ -49,3 +49,22 @@
   margin-bottom: 10px;
   display: block;
 }
+.user-component__subtitle {
+  position: relative;
+}
+.user-component__alert {
+  display: inline;
+
+  display: flex;
+  width: 12px;
+  border: 1.5px solid tomato;
+  border-radius: 15px;
+  align-content: center;
+  justify-content: center;
+  color: tomato;
+  aspect-ratio: 1;
+  position: absolute;
+  font-size: 11px;
+  right: -20px;
+  top: 1px;
+}
